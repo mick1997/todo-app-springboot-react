@@ -6,9 +6,6 @@ public class  JwtTokenRequest implements Serializable {
 
   private static final long serialVersionUID = -5616176897013108345L;
 
-//    {
-//        "token": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJpbjI4bWludXRlcyIsImV4cCI6MTU5MDE0MDUzNCwiaWF0IjoxNTg5NTM1NzM0fQ.TRGChbMBWcf6xa7oUge7Ps6pHf_X3vmCf6z06ZTxyRujWObXXRjzZhAhYmocBIaiyzRWgFC9uMv2HZT74kKQqw"
-//    }
   private String username;
     private String password;
 
